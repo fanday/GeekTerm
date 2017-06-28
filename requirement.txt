@@ -1,0 +1,7 @@
+﻿PyInstaller (3.2.1)
+pypiwin32 (219)
+pyqode.core (2.11.0)
+pyqode.python (2.10.0)
+pyqode.qt (2.10.0)
+PyQt5 (5.8.2)
+pyserial (3.3)
